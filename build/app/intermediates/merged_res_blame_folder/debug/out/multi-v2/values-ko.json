@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/naveedislam/Downloads/food_delivery/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
+            "outputFile": "/Users/naveedislam/Developer/flutter_project/food_delivery/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
             "map": [
                 {
                     "source": "/Users/naveedislam/.gradle/caches/transforms-3/c8816dc894474fe4d381e473ac6f5f8a/transformed/core-1.6.0/res/values-ko/values-ko.xml",

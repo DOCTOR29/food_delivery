@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/naveedislam/Downloads/food_delivery/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/naveedislam/Developer/flutter_project/food_delivery/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/naveedislam/Downloads/food_delivery/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/naveedislam/Developer/flutter_project/food_delivery/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
