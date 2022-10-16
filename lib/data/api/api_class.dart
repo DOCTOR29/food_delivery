@@ -1,5 +1,7 @@
 import 'package:get/get.dart';
 
+import '../../utils/app_constants.dart';
+
 class ApiCleint extends GetConnect implements GetxService {
   late String token;
   late final String appBaseUrl;
@@ -8,10 +10,10 @@ class ApiCleint extends GetConnect implements GetxService {
   ApiCleint({required dynamic appBaseUrl}) {
     baseUrl = appBaseUrl;
     timeout = Duration(seconds: 30);
-    token='';
+    token=AppConstants.TOKKEN;
     allowAutoSignedCert = true;
     _mainHeaders = {
-      'conente-type': 'application/json; charset=UTF-8',
+      'content-type': 'application/json; charset=UTF-8',
       'Authorisation': 'beared $token',
     };
   }
